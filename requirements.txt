@@ -1,0 +1,17 @@
+Bottleneck==1.3.2
+certifi==2021.10.8
+click==8.0.3
+Flask @ file:///tmp/build/80754af9/flask_1634118196080/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
+MarkupSafe @ file:///opt/concourse/worker/volumes/live/2165c944-5d03-464f-57c1-1df4e51b3ac3/volume/markupsafe_1621528146825/work
+mkl-fft==1.3.1
+mkl-random @ file:///opt/concourse/worker/volumes/live/133f1d0b-8fd8-4fa0-679e-7214401cbd75/volume/mkl_random_1626186083386/work
+mkl-service==2.4.0
+numexpr @ file:///opt/concourse/worker/volumes/live/6bbc9b0e-ade0-40db-6ee6-74c979385fbb/volume/numexpr_1618856531941/work
+numpy @ file:///opt/concourse/worker/volumes/live/046e897c-3622-47d5-79cf-02f72d341f0d/volume/numpy_and_numpy_base_1634106712173/work
+pandas==1.3.4
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.3
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
